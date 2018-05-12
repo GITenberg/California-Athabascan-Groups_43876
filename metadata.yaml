@@ -1,0 +1,27 @@
+_repo: California-Athabascan-Groups_43876
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43876-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Baumhoff, Martin A.
+    alias: Baumhoff, M. A. (Martin A.)
+    gutenberg_agent_id: '42450'
+    url: http://www.gutenberg.org/2009/agents/42450
+description: ''
+gutenberg_issued: '2013-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43876'
+  lccn: a58009810
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Athapascan Indians'
+- !lcc 'E011'
+- !lcsh 'Indians of North America -- California'
+title: California Athabascan Groups
+url: http://www.gutenberg.org/ebooks/43876
